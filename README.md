@@ -12,3 +12,6 @@ Visit https://xaxxdeye85.execute-api.us-east-1.amazonaws.com/api/
 Use your login credentials, and submit the form. This will download the data for tomorrows Divison 10 hearings as `data.csv`.
 
 Upload `data.csv` to Google Drive to view it in Google Sheets.
+
+https://user-images.githubusercontent.com/916017/118420224-f5752c00-b683-11eb-883e-fe9596c32a27.mov
+
